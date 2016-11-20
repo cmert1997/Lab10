@@ -1,3 +1,3 @@
 # Lab10
 Course LabWork
-This LabWork contains students Cv's written in html.
+<p> This LabWork contains students Cv's written in html.</p>
